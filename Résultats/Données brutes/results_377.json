@@ -1,0 +1,1928 @@
+{
+    "username": "377",
+    "sessions": [
+        {
+            "session_id": 1,
+            "timestamp": "2024-12-03_14-23-05",
+            "difficulty_level": "Non sp\u00e9cifi\u00e9",
+            "num_grids": 30,
+            "grids": [
+                {
+                    "grid_id": 1,
+                    "num_targets_quadrant": [
+                        5,
+                        5,
+                        7,
+                        7
+                    ],
+                    "user_responses_quadrant": [
+                        4,
+                        5,
+                        6,
+                        6
+                    ],
+                    "error_per_quadrant": [
+                        1,
+                        0,
+                        1,
+                        1
+                    ]
+                },
+                {
+                    "grid_id": 2,
+                    "num_targets_quadrant": [
+                        2,
+                        1,
+                        4,
+                        4
+                    ],
+                    "user_responses_quadrant": [
+                        2,
+                        1,
+                        4,
+                        4
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "grid_id": 3,
+                    "num_targets_quadrant": [
+                        2,
+                        4,
+                        2,
+                        4
+                    ],
+                    "user_responses_quadrant": [
+                        2,
+                        4,
+                        2,
+                        4
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "grid_id": 4,
+                    "num_targets_quadrant": [
+                        8,
+                        9,
+                        7,
+                        8
+                    ],
+                    "user_responses_quadrant": [
+                        8,
+                        9,
+                        6,
+                        6
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "grid_id": 5,
+                    "num_targets_quadrant": [
+                        4,
+                        4,
+                        3,
+                        0
+                    ],
+                    "user_responses_quadrant": [
+                        4,
+                        4,
+                        3,
+                        0
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "grid_id": 6,
+                    "num_targets_quadrant": [
+                        10,
+                        8,
+                        6,
+                        4
+                    ],
+                    "user_responses_quadrant": [
+                        8,
+                        10,
+                        6,
+                        6
+                    ],
+                    "error_per_quadrant": [
+                        2,
+                        2,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "grid_id": 7,
+                    "num_targets_quadrant": [
+                        4,
+                        6,
+                        6,
+                        5
+                    ],
+                    "user_responses_quadrant": [
+                        4,
+                        6,
+                        6,
+                        7
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "grid_id": 8,
+                    "num_targets_quadrant": [
+                        6,
+                        7,
+                        5,
+                        5
+                    ],
+                    "user_responses_quadrant": [
+                        6,
+                        7,
+                        5,
+                        5
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "grid_id": 9,
+                    "num_targets_quadrant": [
+                        6,
+                        5,
+                        9,
+                        9
+                    ],
+                    "user_responses_quadrant": [
+                        5,
+                        4,
+                        7,
+                        4
+                    ],
+                    "error_per_quadrant": [
+                        1,
+                        1,
+                        2,
+                        5
+                    ]
+                },
+                {
+                    "grid_id": 10,
+                    "num_targets_quadrant": [
+                        9,
+                        7,
+                        8,
+                        6
+                    ],
+                    "user_responses_quadrant": [
+                        9,
+                        7,
+                        4,
+                        4
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        4,
+                        2
+                    ]
+                },
+                {
+                    "grid_id": 11,
+                    "num_targets_quadrant": [
+                        5,
+                        5,
+                        6,
+                        3
+                    ],
+                    "user_responses_quadrant": [
+                        5,
+                        5,
+                        4,
+                        6
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "grid_id": 12,
+                    "num_targets_quadrant": [
+                        4,
+                        2,
+                        2,
+                        2
+                    ],
+                    "user_responses_quadrant": [
+                        4,
+                        2,
+                        2,
+                        2
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "grid_id": 13,
+                    "num_targets_quadrant": [
+                        6,
+                        6,
+                        2,
+                        5
+                    ],
+                    "user_responses_quadrant": [
+                        4,
+                        6,
+                        2,
+                        5
+                    ],
+                    "error_per_quadrant": [
+                        2,
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "grid_id": 14,
+                    "num_targets_quadrant": [
+                        7,
+                        5,
+                        4,
+                        8
+                    ],
+                    "user_responses_quadrant": [
+                        4,
+                        7,
+                        4,
+                        5
+                    ],
+                    "error_per_quadrant": [
+                        3,
+                        2,
+                        0,
+                        3
+                    ]
+                },
+                {
+                    "grid_id": 15,
+                    "num_targets_quadrant": [
+                        4,
+                        2,
+                        3,
+                        3
+                    ],
+                    "user_responses_quadrant": [
+                        4,
+                        2,
+                        3,
+                        3
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "grid_id": 16,
+                    "num_targets_quadrant": [
+                        5,
+                        5,
+                        4,
+                        6
+                    ],
+                    "user_responses_quadrant": [
+                        5,
+                        4,
+                        4,
+                        5
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        1,
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "grid_id": 17,
+                    "num_targets_quadrant": [
+                        4,
+                        6,
+                        4,
+                        5
+                    ],
+                    "user_responses_quadrant": [
+                        4,
+                        6,
+                        4,
+                        5
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "grid_id": 18,
+                    "num_targets_quadrant": [
+                        7,
+                        10,
+                        11,
+                        9
+                    ],
+                    "user_responses_quadrant": [
+                        7,
+                        9,
+                        6,
+                        5
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        1,
+                        5,
+                        4
+                    ]
+                },
+                {
+                    "grid_id": 19,
+                    "num_targets_quadrant": [
+                        2,
+                        5,
+                        1,
+                        2
+                    ],
+                    "user_responses_quadrant": [
+                        2,
+                        5,
+                        1,
+                        2
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "grid_id": 20,
+                    "num_targets_quadrant": [
+                        8,
+                        8,
+                        9,
+                        4
+                    ],
+                    "user_responses_quadrant": [
+                        8,
+                        8,
+                        7,
+                        7
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "grid_id": 21,
+                    "num_targets_quadrant": [
+                        4,
+                        0,
+                        5,
+                        4
+                    ],
+                    "user_responses_quadrant": [
+                        4,
+                        0,
+                        5,
+                        4
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "grid_id": 22,
+                    "num_targets_quadrant": [
+                        7,
+                        4,
+                        5,
+                        5
+                    ],
+                    "user_responses_quadrant": [
+                        5,
+                        7,
+                        4,
+                        6
+                    ],
+                    "error_per_quadrant": [
+                        2,
+                        3,
+                        1,
+                        1
+                    ]
+                },
+                {
+                    "grid_id": 23,
+                    "num_targets_quadrant": [
+                        6,
+                        4,
+                        7,
+                        6
+                    ],
+                    "user_responses_quadrant": [
+                        6,
+                        4,
+                        7,
+                        5
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "grid_id": 24,
+                    "num_targets_quadrant": [
+                        7,
+                        7,
+                        6,
+                        8
+                    ],
+                    "user_responses_quadrant": [
+                        7,
+                        7,
+                        7,
+                        5
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        1,
+                        3
+                    ]
+                },
+                {
+                    "grid_id": 25,
+                    "num_targets_quadrant": [
+                        3,
+                        5,
+                        5,
+                        6
+                    ],
+                    "user_responses_quadrant": [
+                        3,
+                        5,
+                        5,
+                        5
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "grid_id": 26,
+                    "num_targets_quadrant": [
+                        6,
+                        5,
+                        5,
+                        5
+                    ],
+                    "user_responses_quadrant": [
+                        6,
+                        5,
+                        5,
+                        5
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "grid_id": 27,
+                    "num_targets_quadrant": [
+                        4,
+                        3,
+                        2,
+                        3
+                    ],
+                    "user_responses_quadrant": [
+                        4,
+                        3,
+                        2,
+                        3
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "grid_id": 28,
+                    "num_targets_quadrant": [
+                        1,
+                        1,
+                        5,
+                        4
+                    ],
+                    "user_responses_quadrant": [
+                        1,
+                        1,
+                        4,
+                        4
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        1,
+                        0
+                    ]
+                },
+                {
+                    "grid_id": 29,
+                    "num_targets_quadrant": [
+                        3,
+                        6,
+                        6,
+                        8
+                    ],
+                    "user_responses_quadrant": [
+                        3,
+                        4,
+                        4,
+                        6
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        2,
+                        2,
+                        2
+                    ]
+                },
+                {
+                    "grid_id": 30,
+                    "num_targets_quadrant": [
+                        1,
+                        5,
+                        1,
+                        2
+                    ],
+                    "user_responses_quadrant": [
+                        1,
+                        5,
+                        1,
+                        2
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            ],
+            "total_correct_responses": 80,
+            "over_estimation": 9,
+            "under_estimation": 31
+        },
+        {
+            "session_id": 2,
+            "timestamp": "2024-12-03_14-41-45",
+            "difficulty_level": "Non sp\u00e9cifi\u00e9",
+            "num_grids": 30,
+            "grids": [
+                {
+                    "grid_id": 1,
+                    "num_targets_quadrant": [
+                        5,
+                        2,
+                        3,
+                        4
+                    ],
+                    "user_responses_quadrant": [
+                        5,
+                        2,
+                        3,
+                        4
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "grid_id": 2,
+                    "num_targets_quadrant": [
+                        3,
+                        6,
+                        2,
+                        0
+                    ],
+                    "user_responses_quadrant": [
+                        3,
+                        6,
+                        2,
+                        0
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "grid_id": 3,
+                    "num_targets_quadrant": [
+                        1,
+                        2,
+                        1,
+                        1
+                    ],
+                    "user_responses_quadrant": [
+                        1,
+                        2,
+                        1,
+                        1
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "grid_id": 4,
+                    "num_targets_quadrant": [
+                        3,
+                        5,
+                        6,
+                        5
+                    ],
+                    "user_responses_quadrant": [
+                        3,
+                        6,
+                        6,
+                        5
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        1,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "grid_id": 5,
+                    "num_targets_quadrant": [
+                        6,
+                        7,
+                        9,
+                        7
+                    ],
+                    "user_responses_quadrant": [
+                        6,
+                        6,
+                        9,
+                        7
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        1,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "grid_id": 6,
+                    "num_targets_quadrant": [
+                        6,
+                        6,
+                        2,
+                        8
+                    ],
+                    "user_responses_quadrant": [
+                        6,
+                        6,
+                        2,
+                        8
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "grid_id": 7,
+                    "num_targets_quadrant": [
+                        4,
+                        5,
+                        6,
+                        3
+                    ],
+                    "user_responses_quadrant": [
+                        4,
+                        5,
+                        6,
+                        5
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "grid_id": 8,
+                    "num_targets_quadrant": [
+                        6,
+                        8,
+                        6,
+                        10
+                    ],
+                    "user_responses_quadrant": [
+                        6,
+                        7,
+                        6,
+                        6
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        1,
+                        0,
+                        4
+                    ]
+                },
+                {
+                    "grid_id": 9,
+                    "num_targets_quadrant": [
+                        4,
+                        9,
+                        4,
+                        3
+                    ],
+                    "user_responses_quadrant": [
+                        4,
+                        9,
+                        4,
+                        6
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        3
+                    ]
+                },
+                {
+                    "grid_id": 10,
+                    "num_targets_quadrant": [
+                        6,
+                        9,
+                        9,
+                        6
+                    ],
+                    "user_responses_quadrant": [
+                        6,
+                        9,
+                        4,
+                        5
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        5,
+                        1
+                    ]
+                },
+                {
+                    "grid_id": 11,
+                    "num_targets_quadrant": [
+                        5,
+                        4,
+                        7,
+                        4
+                    ],
+                    "user_responses_quadrant": [
+                        4,
+                        5,
+                        7,
+                        6
+                    ],
+                    "error_per_quadrant": [
+                        1,
+                        1,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "grid_id": 12,
+                    "num_targets_quadrant": [
+                        3,
+                        4,
+                        4,
+                        4
+                    ],
+                    "user_responses_quadrant": [
+                        3,
+                        4,
+                        4,
+                        4
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "grid_id": 13,
+                    "num_targets_quadrant": [
+                        6,
+                        6,
+                        6,
+                        3
+                    ],
+                    "user_responses_quadrant": [
+                        6,
+                        6,
+                        6,
+                        3
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "grid_id": 14,
+                    "num_targets_quadrant": [
+                        6,
+                        4,
+                        7,
+                        6
+                    ],
+                    "user_responses_quadrant": [
+                        3,
+                        6,
+                        7,
+                        6
+                    ],
+                    "error_per_quadrant": [
+                        3,
+                        2,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "grid_id": 15,
+                    "num_targets_quadrant": [
+                        4,
+                        1,
+                        5,
+                        3
+                    ],
+                    "user_responses_quadrant": [
+                        4,
+                        1,
+                        5,
+                        3
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "grid_id": 16,
+                    "num_targets_quadrant": [
+                        1,
+                        2,
+                        1,
+                        4
+                    ],
+                    "user_responses_quadrant": [
+                        1,
+                        2,
+                        1,
+                        4
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "grid_id": 17,
+                    "num_targets_quadrant": [
+                        5,
+                        1,
+                        4,
+                        4
+                    ],
+                    "user_responses_quadrant": [
+                        5,
+                        1,
+                        4,
+                        3
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "grid_id": 18,
+                    "num_targets_quadrant": [
+                        1,
+                        4,
+                        1,
+                        4
+                    ],
+                    "user_responses_quadrant": [
+                        1,
+                        4,
+                        1,
+                        4
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "grid_id": 19,
+                    "num_targets_quadrant": [
+                        4,
+                        6,
+                        2,
+                        4
+                    ],
+                    "user_responses_quadrant": [
+                        4,
+                        6,
+                        2,
+                        4
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "grid_id": 20,
+                    "num_targets_quadrant": [
+                        13,
+                        9,
+                        11,
+                        13
+                    ],
+                    "user_responses_quadrant": [
+                        12,
+                        8,
+                        8,
+                        8
+                    ],
+                    "error_per_quadrant": [
+                        1,
+                        1,
+                        3,
+                        5
+                    ]
+                },
+                {
+                    "grid_id": 21,
+                    "num_targets_quadrant": [
+                        6,
+                        9,
+                        6,
+                        7
+                    ],
+                    "user_responses_quadrant": [
+                        6,
+                        9,
+                        6,
+                        6
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "grid_id": 22,
+                    "num_targets_quadrant": [
+                        7,
+                        7,
+                        5,
+                        4
+                    ],
+                    "user_responses_quadrant": [
+                        6,
+                        7,
+                        5,
+                        6
+                    ],
+                    "error_per_quadrant": [
+                        1,
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "grid_id": 23,
+                    "num_targets_quadrant": [
+                        4,
+                        5,
+                        8,
+                        5
+                    ],
+                    "user_responses_quadrant": [
+                        5,
+                        6,
+                        7,
+                        5
+                    ],
+                    "error_per_quadrant": [
+                        1,
+                        1,
+                        1,
+                        0
+                    ]
+                },
+                {
+                    "grid_id": 24,
+                    "num_targets_quadrant": [
+                        3,
+                        3,
+                        3,
+                        6
+                    ],
+                    "user_responses_quadrant": [
+                        3,
+                        3,
+                        3,
+                        6
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "grid_id": 25,
+                    "num_targets_quadrant": [
+                        7,
+                        4,
+                        5,
+                        8
+                    ],
+                    "user_responses_quadrant": [
+                        7,
+                        4,
+                        5,
+                        6
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "grid_id": 26,
+                    "num_targets_quadrant": [
+                        4,
+                        7,
+                        3,
+                        4
+                    ],
+                    "user_responses_quadrant": [
+                        4,
+                        7,
+                        3,
+                        4
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "grid_id": 27,
+                    "num_targets_quadrant": [
+                        8,
+                        3,
+                        7,
+                        5
+                    ],
+                    "user_responses_quadrant": [
+                        8,
+                        3,
+                        5,
+                        5
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        2,
+                        0
+                    ]
+                },
+                {
+                    "grid_id": 28,
+                    "num_targets_quadrant": [
+                        11,
+                        7,
+                        3,
+                        8
+                    ],
+                    "user_responses_quadrant": [
+                        11,
+                        7,
+                        6,
+                        6
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        3,
+                        2
+                    ]
+                },
+                {
+                    "grid_id": 29,
+                    "num_targets_quadrant": [
+                        5,
+                        3,
+                        7,
+                        5
+                    ],
+                    "user_responses_quadrant": [
+                        3,
+                        5,
+                        7,
+                        5
+                    ],
+                    "error_per_quadrant": [
+                        2,
+                        2,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "grid_id": 30,
+                    "num_targets_quadrant": [
+                        3,
+                        2,
+                        7,
+                        2
+                    ],
+                    "user_responses_quadrant": [
+                        3,
+                        2,
+                        7,
+                        2
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            ],
+            "total_correct_responses": 90,
+            "over_estimation": 11,
+            "under_estimation": 19
+        },
+        {
+            "session_id": 3,
+            "timestamp": "2024-12-05_16-35-09",
+            "difficulty_level": "Non sp\u00e9cifi\u00e9",
+            "num_grids": 30,
+            "grids": [
+                {
+                    "grid_id": 1,
+                    "num_targets_quadrant": [
+                        7,
+                        5,
+                        4,
+                        4
+                    ],
+                    "user_responses_quadrant": [
+                        7,
+                        4,
+                        4,
+                        3
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        1,
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "grid_id": 2,
+                    "num_targets_quadrant": [
+                        2,
+                        4,
+                        3,
+                        3
+                    ],
+                    "user_responses_quadrant": [
+                        2,
+                        4,
+                        3,
+                        3
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "grid_id": 3,
+                    "num_targets_quadrant": [
+                        1,
+                        4,
+                        0,
+                        2
+                    ],
+                    "user_responses_quadrant": [
+                        1,
+                        4,
+                        0,
+                        2
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "grid_id": 4,
+                    "num_targets_quadrant": [
+                        4,
+                        8,
+                        7,
+                        5
+                    ],
+                    "user_responses_quadrant": [
+                        4,
+                        8,
+                        7,
+                        6
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "grid_id": 5,
+                    "num_targets_quadrant": [
+                        7,
+                        6,
+                        5,
+                        9
+                    ],
+                    "user_responses_quadrant": [
+                        7,
+                        6,
+                        5,
+                        5
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        4
+                    ]
+                },
+                {
+                    "grid_id": 6,
+                    "num_targets_quadrant": [
+                        2,
+                        0,
+                        4,
+                        3
+                    ],
+                    "user_responses_quadrant": [
+                        2,
+                        0,
+                        4,
+                        3
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "grid_id": 7,
+                    "num_targets_quadrant": [
+                        7,
+                        4,
+                        6,
+                        8
+                    ],
+                    "user_responses_quadrant": [
+                        7,
+                        4,
+                        5,
+                        3
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        1,
+                        5
+                    ]
+                },
+                {
+                    "grid_id": 8,
+                    "num_targets_quadrant": [
+                        2,
+                        8,
+                        5,
+                        4
+                    ],
+                    "user_responses_quadrant": [
+                        2,
+                        8,
+                        5,
+                        4
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "grid_id": 9,
+                    "num_targets_quadrant": [
+                        9,
+                        10,
+                        6,
+                        4
+                    ],
+                    "user_responses_quadrant": [
+                        9,
+                        7,
+                        7,
+                        7
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        3,
+                        1,
+                        3
+                    ]
+                },
+                {
+                    "grid_id": 10,
+                    "num_targets_quadrant": [
+                        9,
+                        4,
+                        6,
+                        10
+                    ],
+                    "user_responses_quadrant": [
+                        9,
+                        4,
+                        6,
+                        5
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        5
+                    ]
+                },
+                {
+                    "grid_id": 11,
+                    "num_targets_quadrant": [
+                        6,
+                        3,
+                        2,
+                        4
+                    ],
+                    "user_responses_quadrant": [
+                        6,
+                        3,
+                        2,
+                        4
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "grid_id": 12,
+                    "num_targets_quadrant": [
+                        3,
+                        4,
+                        4,
+                        2
+                    ],
+                    "user_responses_quadrant": [
+                        3,
+                        4,
+                        4,
+                        2
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "grid_id": 13,
+                    "num_targets_quadrant": [
+                        5,
+                        7,
+                        4,
+                        6
+                    ],
+                    "user_responses_quadrant": [
+                        5,
+                        7,
+                        4,
+                        3
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        3
+                    ]
+                },
+                {
+                    "grid_id": 14,
+                    "num_targets_quadrant": [
+                        9,
+                        7,
+                        7,
+                        4
+                    ],
+                    "user_responses_quadrant": [
+                        9,
+                        7,
+                        7,
+                        5
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "grid_id": 15,
+                    "num_targets_quadrant": [
+                        4,
+                        3,
+                        2,
+                        5
+                    ],
+                    "user_responses_quadrant": [
+                        4,
+                        3,
+                        2,
+                        5
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "grid_id": 16,
+                    "num_targets_quadrant": [
+                        4,
+                        2,
+                        6,
+                        6
+                    ],
+                    "user_responses_quadrant": [
+                        4,
+                        2,
+                        6,
+                        5
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "grid_id": 17,
+                    "num_targets_quadrant": [
+                        7,
+                        6,
+                        5,
+                        2
+                    ],
+                    "user_responses_quadrant": [
+                        7,
+                        6,
+                        5,
+                        3
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "grid_id": 18,
+                    "num_targets_quadrant": [
+                        8,
+                        7,
+                        10,
+                        7
+                    ],
+                    "user_responses_quadrant": [
+                        8,
+                        7,
+                        8,
+                        6
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        2,
+                        1
+                    ]
+                },
+                {
+                    "grid_id": 19,
+                    "num_targets_quadrant": [
+                        8,
+                        2,
+                        1,
+                        3
+                    ],
+                    "user_responses_quadrant": [
+                        8,
+                        2,
+                        1,
+                        3
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "grid_id": 20,
+                    "num_targets_quadrant": [
+                        9,
+                        5,
+                        10,
+                        5
+                    ],
+                    "user_responses_quadrant": [
+                        9,
+                        5,
+                        5,
+                        5
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        5,
+                        0
+                    ]
+                },
+                {
+                    "grid_id": 21,
+                    "num_targets_quadrant": [
+                        1,
+                        5,
+                        4,
+                        1
+                    ],
+                    "user_responses_quadrant": [
+                        1,
+                        5,
+                        4,
+                        1
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "grid_id": 22,
+                    "num_targets_quadrant": [
+                        4,
+                        3,
+                        5,
+                        4
+                    ],
+                    "user_responses_quadrant": [
+                        4,
+                        3,
+                        5,
+                        4
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "grid_id": 23,
+                    "num_targets_quadrant": [
+                        6,
+                        6,
+                        7,
+                        5
+                    ],
+                    "user_responses_quadrant": [
+                        6,
+                        6,
+                        7,
+                        5
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "grid_id": 24,
+                    "num_targets_quadrant": [
+                        6,
+                        10,
+                        7,
+                        10
+                    ],
+                    "user_responses_quadrant": [
+                        6,
+                        10,
+                        8,
+                        8
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "grid_id": 25,
+                    "num_targets_quadrant": [
+                        3,
+                        3,
+                        6,
+                        6
+                    ],
+                    "user_responses_quadrant": [
+                        3,
+                        3,
+                        6,
+                        6
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "grid_id": 26,
+                    "num_targets_quadrant": [
+                        5,
+                        5,
+                        4,
+                        5
+                    ],
+                    "user_responses_quadrant": [
+                        5,
+                        5,
+                        4,
+                        5
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "grid_id": 27,
+                    "num_targets_quadrant": [
+                        3,
+                        5,
+                        6,
+                        7
+                    ],
+                    "user_responses_quadrant": [
+                        3,
+                        5,
+                        6,
+                        6
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "grid_id": 28,
+                    "num_targets_quadrant": [
+                        1,
+                        2,
+                        3,
+                        1
+                    ],
+                    "user_responses_quadrant": [
+                        1,
+                        2,
+                        3,
+                        1
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "grid_id": 29,
+                    "num_targets_quadrant": [
+                        4,
+                        4,
+                        3,
+                        4
+                    ],
+                    "user_responses_quadrant": [
+                        4,
+                        4,
+                        3,
+                        4
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "grid_id": 30,
+                    "num_targets_quadrant": [
+                        4,
+                        8,
+                        8,
+                        11
+                    ],
+                    "user_responses_quadrant": [
+                        4,
+                        8,
+                        7,
+                        5
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        1,
+                        6
+                    ]
+                }
+            ],
+            "total_correct_responses": 98,
+            "over_estimation": 6,
+            "under_estimation": 16
+        }
+    ]
+}

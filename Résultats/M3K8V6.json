@@ -1,0 +1,2018 @@
+{
+    "username": "M3K8V6",
+    "sessions": [
+        {
+            "session_id": 1,
+            "timestamp": "2024-11-29_14-19-49",
+            "difficulty_level": "Non sp\u00e9cifi\u00e9",
+            "num_grids": 30,
+            "grids": [
+                {
+                    "grid_id": 1,
+                    "num_targets_quadrant": [
+                        6,
+                        4,
+                        4,
+                        4
+                    ],
+                    "user_responses_quadrant": [
+                        5,
+                        3,
+                        4,
+                        4
+                    ],
+                    "error_per_quadrant": [
+                        1,
+                        1,
+                        0,
+                        0
+                    ],
+                    "difficulty": "Moyen"
+                },
+                {
+                    "grid_id": 2,
+                    "num_targets_quadrant": [
+                        5,
+                        5,
+                        2,
+                        3
+                    ],
+                    "user_responses_quadrant": [
+                        5,
+                        4,
+                        2,
+                        3
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        1,
+                        0,
+                        0
+                    ],
+                    "difficulty": "Facile"
+                },
+                {
+                    "grid_id": 3,
+                    "num_targets_quadrant": [
+                        5,
+                        0,
+                        3,
+                        2
+                    ],
+                    "user_responses_quadrant": [
+                        5,
+                        0,
+                        3,
+                        2
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "difficulty": "Facile"
+                },
+                {
+                    "grid_id": 4,
+                    "num_targets_quadrant": [
+                        5,
+                        2,
+                        8,
+                        9
+                    ],
+                    "user_responses_quadrant": [
+                        5,
+                        2,
+                        6,
+                        7
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        2,
+                        2
+                    ],
+                    "difficulty": "Moyen"
+                },
+                {
+                    "grid_id": 5,
+                    "num_targets_quadrant": [
+                        10,
+                        5,
+                        4,
+                        9
+                    ],
+                    "user_responses_quadrant": [
+                        10,
+                        5,
+                        4,
+                        5
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        4
+                    ],
+                    "difficulty": "Difficile"
+                },
+                {
+                    "grid_id": 6,
+                    "num_targets_quadrant": [
+                        3,
+                        7,
+                        7,
+                        4
+                    ],
+                    "user_responses_quadrant": [
+                        3,
+                        5,
+                        6,
+                        4
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        2,
+                        1,
+                        0
+                    ],
+                    "difficulty": "Moyen"
+                },
+                {
+                    "grid_id": 7,
+                    "num_targets_quadrant": [
+                        7,
+                        9,
+                        8,
+                        9
+                    ],
+                    "user_responses_quadrant": [
+                        7,
+                        6,
+                        8,
+                        5
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        3,
+                        0,
+                        4
+                    ],
+                    "difficulty": "Difficile"
+                },
+                {
+                    "grid_id": 8,
+                    "num_targets_quadrant": [
+                        6,
+                        9,
+                        9,
+                        8
+                    ],
+                    "user_responses_quadrant": [
+                        6,
+                        8,
+                        7,
+                        5
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        1,
+                        2,
+                        3
+                    ],
+                    "difficulty": "Difficile"
+                },
+                {
+                    "grid_id": 9,
+                    "num_targets_quadrant": [
+                        5,
+                        5,
+                        8,
+                        4
+                    ],
+                    "user_responses_quadrant": [
+                        4,
+                        5,
+                        8,
+                        4
+                    ],
+                    "error_per_quadrant": [
+                        1,
+                        0,
+                        0,
+                        0
+                    ],
+                    "difficulty": "Moyen"
+                },
+                {
+                    "grid_id": 10,
+                    "num_targets_quadrant": [
+                        5,
+                        6,
+                        5,
+                        6
+                    ],
+                    "user_responses_quadrant": [
+                        5,
+                        5,
+                        5,
+                        3
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        1,
+                        0,
+                        3
+                    ],
+                    "difficulty": "Moyen"
+                },
+                {
+                    "grid_id": 11,
+                    "num_targets_quadrant": [
+                        4,
+                        9,
+                        8,
+                        5
+                    ],
+                    "user_responses_quadrant": [
+                        4,
+                        8,
+                        6,
+                        5
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        1,
+                        2,
+                        0
+                    ],
+                    "difficulty": "Difficile"
+                },
+                {
+                    "grid_id": 12,
+                    "num_targets_quadrant": [
+                        5,
+                        4,
+                        2,
+                        2
+                    ],
+                    "user_responses_quadrant": [
+                        5,
+                        4,
+                        2,
+                        2
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "difficulty": "Facile"
+                },
+                {
+                    "grid_id": 13,
+                    "num_targets_quadrant": [
+                        6,
+                        5,
+                        4,
+                        4
+                    ],
+                    "user_responses_quadrant": [
+                        6,
+                        5,
+                        4,
+                        4
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "difficulty": "Moyen"
+                },
+                {
+                    "grid_id": 14,
+                    "num_targets_quadrant": [
+                        2,
+                        2,
+                        4,
+                        3
+                    ],
+                    "user_responses_quadrant": [
+                        2,
+                        2,
+                        4,
+                        3
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "difficulty": "Facile"
+                },
+                {
+                    "grid_id": 15,
+                    "num_targets_quadrant": [
+                        13,
+                        7,
+                        6,
+                        2
+                    ],
+                    "user_responses_quadrant": [
+                        11,
+                        4,
+                        3,
+                        5
+                    ],
+                    "error_per_quadrant": [
+                        2,
+                        3,
+                        3,
+                        3
+                    ],
+                    "difficulty": "Difficile"
+                },
+                {
+                    "grid_id": 16,
+                    "num_targets_quadrant": [
+                        1,
+                        2,
+                        1,
+                        2
+                    ],
+                    "user_responses_quadrant": [
+                        1,
+                        2,
+                        1,
+                        2
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "difficulty": "Facile"
+                },
+                {
+                    "grid_id": 17,
+                    "num_targets_quadrant": [
+                        3,
+                        3,
+                        5,
+                        3
+                    ],
+                    "user_responses_quadrant": [
+                        3,
+                        3,
+                        5,
+                        3
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "difficulty": "Facile"
+                },
+                {
+                    "grid_id": 18,
+                    "num_targets_quadrant": [
+                        1,
+                        5,
+                        2,
+                        5
+                    ],
+                    "user_responses_quadrant": [
+                        1,
+                        5,
+                        2,
+                        5
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "difficulty": "Facile"
+                },
+                {
+                    "grid_id": 19,
+                    "num_targets_quadrant": [
+                        4,
+                        5,
+                        7,
+                        7
+                    ],
+                    "user_responses_quadrant": [
+                        3,
+                        4,
+                        5,
+                        6
+                    ],
+                    "error_per_quadrant": [
+                        1,
+                        1,
+                        2,
+                        1
+                    ],
+                    "difficulty": "Moyen"
+                },
+                {
+                    "grid_id": 20,
+                    "num_targets_quadrant": [
+                        2,
+                        3,
+                        5,
+                        1
+                    ],
+                    "user_responses_quadrant": [
+                        2,
+                        3,
+                        5,
+                        1
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "difficulty": "Facile"
+                },
+                {
+                    "grid_id": 21,
+                    "num_targets_quadrant": [
+                        6,
+                        9,
+                        9,
+                        6
+                    ],
+                    "user_responses_quadrant": [
+                        6,
+                        7,
+                        8,
+                        4
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        2,
+                        1,
+                        2
+                    ],
+                    "difficulty": "Difficile"
+                },
+                {
+                    "grid_id": 22,
+                    "num_targets_quadrant": [
+                        1,
+                        0,
+                        1,
+                        3
+                    ],
+                    "user_responses_quadrant": [
+                        1,
+                        0,
+                        1,
+                        3
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "difficulty": "Facile"
+                },
+                {
+                    "grid_id": 23,
+                    "num_targets_quadrant": [
+                        6,
+                        4,
+                        3,
+                        6
+                    ],
+                    "user_responses_quadrant": [
+                        6,
+                        4,
+                        3,
+                        6
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "difficulty": "Moyen"
+                },
+                {
+                    "grid_id": 24,
+                    "num_targets_quadrant": [
+                        6,
+                        6,
+                        3,
+                        4
+                    ],
+                    "user_responses_quadrant": [
+                        6,
+                        6,
+                        3,
+                        4
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "difficulty": "Moyen"
+                },
+                {
+                    "grid_id": 25,
+                    "num_targets_quadrant": [
+                        5,
+                        3,
+                        3,
+                        3
+                    ],
+                    "user_responses_quadrant": [
+                        5,
+                        3,
+                        3,
+                        3
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "difficulty": "Facile"
+                },
+                {
+                    "grid_id": 26,
+                    "num_targets_quadrant": [
+                        7,
+                        7,
+                        6,
+                        7
+                    ],
+                    "user_responses_quadrant": [
+                        7,
+                        7,
+                        6,
+                        4
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        3
+                    ],
+                    "difficulty": "Difficile"
+                },
+                {
+                    "grid_id": 27,
+                    "num_targets_quadrant": [
+                        4,
+                        9,
+                        3,
+                        9
+                    ],
+                    "user_responses_quadrant": [
+                        8,
+                        5,
+                        3,
+                        6
+                    ],
+                    "error_per_quadrant": [
+                        4,
+                        4,
+                        0,
+                        3
+                    ],
+                    "difficulty": "Difficile"
+                },
+                {
+                    "grid_id": 28,
+                    "num_targets_quadrant": [
+                        5,
+                        7,
+                        6,
+                        6
+                    ],
+                    "user_responses_quadrant": [
+                        5,
+                        7,
+                        5,
+                        5
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        1,
+                        1
+                    ],
+                    "difficulty": "Difficile"
+                },
+                {
+                    "grid_id": 29,
+                    "num_targets_quadrant": [
+                        2,
+                        4,
+                        5,
+                        7
+                    ],
+                    "user_responses_quadrant": [
+                        2,
+                        4,
+                        5,
+                        7
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "difficulty": "Moyen"
+                },
+                {
+                    "grid_id": 30,
+                    "num_targets_quadrant": [
+                        10,
+                        4,
+                        9,
+                        7
+                    ],
+                    "user_responses_quadrant": [
+                        8,
+                        3,
+                        9,
+                        4
+                    ],
+                    "error_per_quadrant": [
+                        2,
+                        1,
+                        0,
+                        3
+                    ],
+                    "difficulty": "Difficile"
+                }
+            ],
+            "total_correct_responses": 82,
+            "over_estimation": 2,
+            "under_estimation": 36
+        },
+        {
+            "session_id": 2,
+            "timestamp": "2024-11-29_14-42-39",
+            "difficulty_level": "Non sp\u00e9cifi\u00e9",
+            "num_grids": 30,
+            "grids": [
+                {
+                    "grid_id": 1,
+                    "num_targets_quadrant": [
+                        4,
+                        5,
+                        6,
+                        4
+                    ],
+                    "user_responses_quadrant": [
+                        4,
+                        5,
+                        6,
+                        4
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "difficulty": "Moyen"
+                },
+                {
+                    "grid_id": 2,
+                    "num_targets_quadrant": [
+                        3,
+                        2,
+                        1,
+                        0
+                    ],
+                    "user_responses_quadrant": [
+                        3,
+                        2,
+                        1,
+                        0
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "difficulty": "Facile"
+                },
+                {
+                    "grid_id": 3,
+                    "num_targets_quadrant": [
+                        4,
+                        3,
+                        5,
+                        5
+                    ],
+                    "user_responses_quadrant": [
+                        4,
+                        3,
+                        4,
+                        5
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        1,
+                        0
+                    ],
+                    "difficulty": "Moyen"
+                },
+                {
+                    "grid_id": 4,
+                    "num_targets_quadrant": [
+                        5,
+                        9,
+                        8,
+                        3
+                    ],
+                    "user_responses_quadrant": [
+                        5,
+                        7,
+                        8,
+                        3
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        2,
+                        0,
+                        0
+                    ],
+                    "difficulty": "Difficile"
+                },
+                {
+                    "grid_id": 5,
+                    "num_targets_quadrant": [
+                        5,
+                        5,
+                        5,
+                        3
+                    ],
+                    "user_responses_quadrant": [
+                        5,
+                        5,
+                        5,
+                        3
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "difficulty": "Moyen"
+                },
+                {
+                    "grid_id": 6,
+                    "num_targets_quadrant": [
+                        4,
+                        4,
+                        9,
+                        5
+                    ],
+                    "user_responses_quadrant": [
+                        4,
+                        4,
+                        7,
+                        3
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        2,
+                        2
+                    ],
+                    "difficulty": "Moyen"
+                },
+                {
+                    "grid_id": 7,
+                    "num_targets_quadrant": [
+                        5,
+                        5,
+                        10,
+                        4
+                    ],
+                    "user_responses_quadrant": [
+                        4,
+                        4,
+                        7,
+                        3
+                    ],
+                    "error_per_quadrant": [
+                        1,
+                        1,
+                        3,
+                        1
+                    ],
+                    "difficulty": "Difficile"
+                },
+                {
+                    "grid_id": 8,
+                    "num_targets_quadrant": [
+                        4,
+                        7,
+                        5,
+                        5
+                    ],
+                    "user_responses_quadrant": [
+                        4,
+                        6,
+                        5,
+                        5
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        1,
+                        0,
+                        0
+                    ],
+                    "difficulty": "Moyen"
+                },
+                {
+                    "grid_id": 9,
+                    "num_targets_quadrant": [
+                        1,
+                        3,
+                        3,
+                        1
+                    ],
+                    "user_responses_quadrant": [
+                        1,
+                        3,
+                        3,
+                        1
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "difficulty": "Facile"
+                },
+                {
+                    "grid_id": 10,
+                    "num_targets_quadrant": [
+                        12,
+                        9,
+                        8,
+                        9
+                    ],
+                    "user_responses_quadrant": [
+                        8,
+                        7,
+                        8,
+                        3
+                    ],
+                    "error_per_quadrant": [
+                        4,
+                        2,
+                        0,
+                        6
+                    ],
+                    "difficulty": "Difficile"
+                },
+                {
+                    "grid_id": 11,
+                    "num_targets_quadrant": [
+                        5,
+                        4,
+                        5,
+                        2
+                    ],
+                    "user_responses_quadrant": [
+                        4,
+                        5,
+                        5,
+                        2
+                    ],
+                    "error_per_quadrant": [
+                        1,
+                        1,
+                        0,
+                        0
+                    ],
+                    "difficulty": "Facile"
+                },
+                {
+                    "grid_id": 12,
+                    "num_targets_quadrant": [
+                        6,
+                        9,
+                        7,
+                        8
+                    ],
+                    "user_responses_quadrant": [
+                        4,
+                        9,
+                        7,
+                        8
+                    ],
+                    "error_per_quadrant": [
+                        2,
+                        0,
+                        0,
+                        0
+                    ],
+                    "difficulty": "Difficile"
+                },
+                {
+                    "grid_id": 13,
+                    "num_targets_quadrant": [
+                        1,
+                        5,
+                        1,
+                        3
+                    ],
+                    "user_responses_quadrant": [
+                        1,
+                        5,
+                        1,
+                        3
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "difficulty": "Facile"
+                },
+                {
+                    "grid_id": 14,
+                    "num_targets_quadrant": [
+                        3,
+                        5,
+                        4,
+                        3
+                    ],
+                    "user_responses_quadrant": [
+                        3,
+                        5,
+                        4,
+                        3
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "difficulty": "Facile"
+                },
+                {
+                    "grid_id": 15,
+                    "num_targets_quadrant": [
+                        9,
+                        8,
+                        4,
+                        8
+                    ],
+                    "user_responses_quadrant": [
+                        9,
+                        5,
+                        4,
+                        4
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        3,
+                        0,
+                        4
+                    ],
+                    "difficulty": "Difficile"
+                },
+                {
+                    "grid_id": 16,
+                    "num_targets_quadrant": [
+                        4,
+                        5,
+                        7,
+                        4
+                    ],
+                    "user_responses_quadrant": [
+                        4,
+                        7,
+                        6,
+                        3
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        2,
+                        1,
+                        1
+                    ],
+                    "difficulty": "Moyen"
+                },
+                {
+                    "grid_id": 17,
+                    "num_targets_quadrant": [
+                        8,
+                        1,
+                        8,
+                        8
+                    ],
+                    "user_responses_quadrant": [
+                        7,
+                        1,
+                        7,
+                        7
+                    ],
+                    "error_per_quadrant": [
+                        1,
+                        0,
+                        1,
+                        1
+                    ],
+                    "difficulty": "Difficile"
+                },
+                {
+                    "grid_id": 18,
+                    "num_targets_quadrant": [
+                        4,
+                        2,
+                        2,
+                        5
+                    ],
+                    "user_responses_quadrant": [
+                        4,
+                        2,
+                        2,
+                        5
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "difficulty": "Facile"
+                },
+                {
+                    "grid_id": 19,
+                    "num_targets_quadrant": [
+                        2,
+                        3,
+                        4,
+                        2
+                    ],
+                    "user_responses_quadrant": [
+                        2,
+                        3,
+                        4,
+                        2
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "difficulty": "Facile"
+                },
+                {
+                    "grid_id": 20,
+                    "num_targets_quadrant": [
+                        9,
+                        6,
+                        3,
+                        9
+                    ],
+                    "user_responses_quadrant": [
+                        9,
+                        5,
+                        3,
+                        7
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        1,
+                        0,
+                        2
+                    ],
+                    "difficulty": "Difficile"
+                },
+                {
+                    "grid_id": 21,
+                    "num_targets_quadrant": [
+                        3,
+                        5,
+                        3,
+                        5
+                    ],
+                    "user_responses_quadrant": [
+                        3,
+                        5,
+                        3,
+                        5
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "difficulty": "Facile"
+                },
+                {
+                    "grid_id": 22,
+                    "num_targets_quadrant": [
+                        7,
+                        5,
+                        5,
+                        3
+                    ],
+                    "user_responses_quadrant": [
+                        7,
+                        5,
+                        5,
+                        4
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "difficulty": "Moyen"
+                },
+                {
+                    "grid_id": 23,
+                    "num_targets_quadrant": [
+                        9,
+                        10,
+                        8,
+                        9
+                    ],
+                    "user_responses_quadrant": [
+                        7,
+                        6,
+                        5,
+                        9
+                    ],
+                    "error_per_quadrant": [
+                        2,
+                        4,
+                        3,
+                        0
+                    ],
+                    "difficulty": "Difficile"
+                },
+                {
+                    "grid_id": 24,
+                    "num_targets_quadrant": [
+                        3,
+                        6,
+                        5,
+                        6
+                    ],
+                    "user_responses_quadrant": [
+                        3,
+                        5,
+                        5,
+                        6
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        1,
+                        0,
+                        0
+                    ],
+                    "difficulty": "Moyen"
+                },
+                {
+                    "grid_id": 25,
+                    "num_targets_quadrant": [
+                        4,
+                        1,
+                        2,
+                        3
+                    ],
+                    "user_responses_quadrant": [
+                        4,
+                        1,
+                        2,
+                        3
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "difficulty": "Facile"
+                },
+                {
+                    "grid_id": 26,
+                    "num_targets_quadrant": [
+                        6,
+                        6,
+                        5,
+                        5
+                    ],
+                    "user_responses_quadrant": [
+                        5,
+                        4,
+                        5,
+                        5
+                    ],
+                    "error_per_quadrant": [
+                        1,
+                        2,
+                        0,
+                        0
+                    ],
+                    "difficulty": "Moyen"
+                },
+                {
+                    "grid_id": 27,
+                    "num_targets_quadrant": [
+                        2,
+                        2,
+                        1,
+                        5
+                    ],
+                    "user_responses_quadrant": [
+                        2,
+                        2,
+                        1,
+                        5
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "difficulty": "Facile"
+                },
+                {
+                    "grid_id": 28,
+                    "num_targets_quadrant": [
+                        7,
+                        3,
+                        8,
+                        10
+                    ],
+                    "user_responses_quadrant": [
+                        7,
+                        3,
+                        6,
+                        7
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        2,
+                        3
+                    ],
+                    "difficulty": "Difficile"
+                },
+                {
+                    "grid_id": 29,
+                    "num_targets_quadrant": [
+                        4,
+                        6,
+                        2,
+                        7
+                    ],
+                    "user_responses_quadrant": [
+                        4,
+                        5,
+                        2,
+                        7
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        1,
+                        0,
+                        0
+                    ],
+                    "difficulty": "Moyen"
+                },
+                {
+                    "grid_id": 30,
+                    "num_targets_quadrant": [
+                        7,
+                        6,
+                        6,
+                        6
+                    ],
+                    "user_responses_quadrant": [
+                        7,
+                        6,
+                        6,
+                        5
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "difficulty": "Difficile"
+                }
+            ],
+            "total_correct_responses": 84,
+            "over_estimation": 3,
+            "under_estimation": 33
+        },
+        {
+            "session_id": 3,
+            "timestamp": "2024-12-03_14-10-40",
+            "difficulty_level": "Non sp\u00e9cifi\u00e9",
+            "num_grids": 30,
+            "grids": [
+                {
+                    "grid_id": 1,
+                    "num_targets_quadrant": [
+                        3,
+                        6,
+                        5,
+                        3
+                    ],
+                    "user_responses_quadrant": [
+                        3,
+                        6,
+                        4,
+                        3
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        1,
+                        0
+                    ],
+                    "difficulty": "Moyen"
+                },
+                {
+                    "grid_id": 2,
+                    "num_targets_quadrant": [
+                        1,
+                        5,
+                        2,
+                        5
+                    ],
+                    "user_responses_quadrant": [
+                        1,
+                        5,
+                        2,
+                        5
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "difficulty": "Facile"
+                },
+                {
+                    "grid_id": 3,
+                    "num_targets_quadrant": [
+                        1,
+                        2,
+                        4,
+                        2
+                    ],
+                    "user_responses_quadrant": [
+                        1,
+                        2,
+                        4,
+                        2
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "difficulty": "Facile"
+                },
+                {
+                    "grid_id": 4,
+                    "num_targets_quadrant": [
+                        3,
+                        5,
+                        3,
+                        3
+                    ],
+                    "user_responses_quadrant": [
+                        3,
+                        5,
+                        3,
+                        3
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "difficulty": "Facile"
+                },
+                {
+                    "grid_id": 5,
+                    "num_targets_quadrant": [
+                        6,
+                        8,
+                        5,
+                        8
+                    ],
+                    "user_responses_quadrant": [
+                        6,
+                        7,
+                        5,
+                        8
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        1,
+                        0,
+                        0
+                    ],
+                    "difficulty": "Difficile"
+                },
+                {
+                    "grid_id": 6,
+                    "num_targets_quadrant": [
+                        7,
+                        10,
+                        8,
+                        5
+                    ],
+                    "user_responses_quadrant": [
+                        6,
+                        8,
+                        9,
+                        5
+                    ],
+                    "error_per_quadrant": [
+                        1,
+                        2,
+                        1,
+                        0
+                    ],
+                    "difficulty": "Difficile"
+                },
+                {
+                    "grid_id": 7,
+                    "num_targets_quadrant": [
+                        2,
+                        4,
+                        7,
+                        2
+                    ],
+                    "user_responses_quadrant": [
+                        2,
+                        4,
+                        7,
+                        2
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "difficulty": "Facile"
+                },
+                {
+                    "grid_id": 8,
+                    "num_targets_quadrant": [
+                        8,
+                        6,
+                        6,
+                        9
+                    ],
+                    "user_responses_quadrant": [
+                        8,
+                        6,
+                        5,
+                        8
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        1,
+                        1
+                    ],
+                    "difficulty": "Difficile"
+                },
+                {
+                    "grid_id": 9,
+                    "num_targets_quadrant": [
+                        5,
+                        11,
+                        12,
+                        10
+                    ],
+                    "user_responses_quadrant": [
+                        6,
+                        8,
+                        9,
+                        7
+                    ],
+                    "error_per_quadrant": [
+                        1,
+                        3,
+                        3,
+                        3
+                    ],
+                    "difficulty": "Difficile"
+                },
+                {
+                    "grid_id": 10,
+                    "num_targets_quadrant": [
+                        9,
+                        6,
+                        9,
+                        4
+                    ],
+                    "user_responses_quadrant": [
+                        9,
+                        6,
+                        8,
+                        5
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        1,
+                        1
+                    ],
+                    "difficulty": "Difficile"
+                },
+                {
+                    "grid_id": 11,
+                    "num_targets_quadrant": [
+                        10,
+                        2,
+                        6,
+                        4
+                    ],
+                    "user_responses_quadrant": [
+                        9,
+                        2,
+                        6,
+                        4
+                    ],
+                    "error_per_quadrant": [
+                        1,
+                        0,
+                        0,
+                        0
+                    ],
+                    "difficulty": "Moyen"
+                },
+                {
+                    "grid_id": 12,
+                    "num_targets_quadrant": [
+                        7,
+                        5,
+                        5,
+                        6
+                    ],
+                    "user_responses_quadrant": [
+                        7,
+                        5,
+                        5,
+                        6
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "difficulty": "Difficile"
+                },
+                {
+                    "grid_id": 13,
+                    "num_targets_quadrant": [
+                        8,
+                        3,
+                        5,
+                        11
+                    ],
+                    "user_responses_quadrant": [
+                        7,
+                        3,
+                        5,
+                        8
+                    ],
+                    "error_per_quadrant": [
+                        1,
+                        0,
+                        0,
+                        3
+                    ],
+                    "difficulty": "Difficile"
+                },
+                {
+                    "grid_id": 14,
+                    "num_targets_quadrant": [
+                        5,
+                        5,
+                        5,
+                        5
+                    ],
+                    "user_responses_quadrant": [
+                        5,
+                        5,
+                        5,
+                        5
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "difficulty": "Moyen"
+                },
+                {
+                    "grid_id": 15,
+                    "num_targets_quadrant": [
+                        7,
+                        4,
+                        5,
+                        6
+                    ],
+                    "user_responses_quadrant": [
+                        7,
+                        4,
+                        5,
+                        6
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "difficulty": "Difficile"
+                },
+                {
+                    "grid_id": 16,
+                    "num_targets_quadrant": [
+                        5,
+                        5,
+                        6,
+                        4
+                    ],
+                    "user_responses_quadrant": [
+                        5,
+                        5,
+                        6,
+                        4
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "difficulty": "Moyen"
+                },
+                {
+                    "grid_id": 17,
+                    "num_targets_quadrant": [
+                        3,
+                        4,
+                        1,
+                        5
+                    ],
+                    "user_responses_quadrant": [
+                        3,
+                        4,
+                        1,
+                        5
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "difficulty": "Facile"
+                },
+                {
+                    "grid_id": 18,
+                    "num_targets_quadrant": [
+                        7,
+                        4,
+                        4,
+                        6
+                    ],
+                    "user_responses_quadrant": [
+                        7,
+                        4,
+                        4,
+                        6
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "difficulty": "Moyen"
+                },
+                {
+                    "grid_id": 19,
+                    "num_targets_quadrant": [
+                        5,
+                        3,
+                        6,
+                        4
+                    ],
+                    "user_responses_quadrant": [
+                        5,
+                        3,
+                        6,
+                        4
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "difficulty": "Moyen"
+                },
+                {
+                    "grid_id": 20,
+                    "num_targets_quadrant": [
+                        4,
+                        3,
+                        2,
+                        3
+                    ],
+                    "user_responses_quadrant": [
+                        4,
+                        3,
+                        2,
+                        3
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "difficulty": "Facile"
+                },
+                {
+                    "grid_id": 21,
+                    "num_targets_quadrant": [
+                        4,
+                        2,
+                        2,
+                        3
+                    ],
+                    "user_responses_quadrant": [
+                        4,
+                        2,
+                        2,
+                        3
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "difficulty": "Facile"
+                },
+                {
+                    "grid_id": 22,
+                    "num_targets_quadrant": [
+                        6,
+                        9,
+                        11,
+                        11
+                    ],
+                    "user_responses_quadrant": [
+                        6,
+                        7,
+                        8,
+                        9
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        2,
+                        3,
+                        2
+                    ],
+                    "difficulty": "Difficile"
+                },
+                {
+                    "grid_id": 23,
+                    "num_targets_quadrant": [
+                        4,
+                        5,
+                        3,
+                        6
+                    ],
+                    "user_responses_quadrant": [
+                        4,
+                        5,
+                        3,
+                        6
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "difficulty": "Moyen"
+                },
+                {
+                    "grid_id": 24,
+                    "num_targets_quadrant": [
+                        5,
+                        7,
+                        4,
+                        4
+                    ],
+                    "user_responses_quadrant": [
+                        4,
+                        6,
+                        3,
+                        5
+                    ],
+                    "error_per_quadrant": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
+                    "difficulty": "Moyen"
+                },
+                {
+                    "grid_id": 25,
+                    "num_targets_quadrant": [
+                        9,
+                        9,
+                        5,
+                        8
+                    ],
+                    "user_responses_quadrant": [
+                        9,
+                        7,
+                        5,
+                        8
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        2,
+                        0,
+                        0
+                    ],
+                    "difficulty": "Difficile"
+                },
+                {
+                    "grid_id": 26,
+                    "num_targets_quadrant": [
+                        2,
+                        1,
+                        2,
+                        1
+                    ],
+                    "user_responses_quadrant": [
+                        2,
+                        1,
+                        2,
+                        1
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "difficulty": "Facile"
+                },
+                {
+                    "grid_id": 27,
+                    "num_targets_quadrant": [
+                        3,
+                        6,
+                        5,
+                        2
+                    ],
+                    "user_responses_quadrant": [
+                        3,
+                        6,
+                        5,
+                        2
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "difficulty": "Facile"
+                },
+                {
+                    "grid_id": 28,
+                    "num_targets_quadrant": [
+                        4,
+                        6,
+                        6,
+                        5
+                    ],
+                    "user_responses_quadrant": [
+                        4,
+                        6,
+                        6,
+                        5
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "difficulty": "Moyen"
+                },
+                {
+                    "grid_id": 29,
+                    "num_targets_quadrant": [
+                        4,
+                        3,
+                        5,
+                        5
+                    ],
+                    "user_responses_quadrant": [
+                        2,
+                        3,
+                        5,
+                        4
+                    ],
+                    "error_per_quadrant": [
+                        2,
+                        0,
+                        0,
+                        1
+                    ],
+                    "difficulty": "Moyen"
+                },
+                {
+                    "grid_id": 30,
+                    "num_targets_quadrant": [
+                        3,
+                        1,
+                        1,
+                        0
+                    ],
+                    "user_responses_quadrant": [
+                        3,
+                        1,
+                        1,
+                        0
+                    ],
+                    "error_per_quadrant": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "difficulty": "Facile"
+                }
+            ],
+            "total_correct_responses": 94,
+            "over_estimation": 4,
+            "under_estimation": 22
+        }
+    ]
+}
